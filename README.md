@@ -7,6 +7,27 @@
 - 🏡Lives in **Lima,Perú**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
+## My GitHub Stats :
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Victormrl17&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Victormrl17&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
 ## Connect with me ☕ :
 
 
