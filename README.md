@@ -3,7 +3,7 @@
 
 ## About Me :
 
-- 🎓 Studies for System Engineering at [Universidad Peruana de Ciencias Aplicadas]([https://www.londonmet.ac.uk/](https://www.upc.edu.pe/))
+- 🎓 Studies for System Engineering at [Universidad Peruana de Ciencias Aplicadas]([https://www.upc.edu.pe/])
 - 🏡Lives in **Lima,Perú**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
@@ -13,7 +13,7 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) 
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/victor-ramirez-8049a4193/) 
 
 <br>
 
