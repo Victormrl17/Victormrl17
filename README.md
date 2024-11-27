@@ -3,9 +3,7 @@
 
 ## About Me :
 
-- 🏢 Former **System Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for System Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
+- 🎓 Studies for System Engineering at [Universidad Peruana de Ciencias Aplicadas]([https://www.londonmet.ac.uk/](https://www.upc.edu.pe/))
 - 🏡'Lives in **Lima,Perú**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
