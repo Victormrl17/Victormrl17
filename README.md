@@ -3,7 +3,7 @@
 
 ## About Me :
 
-- 🎓 Studies for System Engineering at [Universidad Peruana de Ciencias Aplicadas][https://www.upc.edu.pe/]
+- 🎓 Studies for System Engineering at [Universidad Peruana de Ciencias Aplicadas](https://www.upc.edu.pe/)
 - 🏡Lives in **Lima,Perú**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
