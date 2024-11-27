@@ -4,7 +4,7 @@
 ## About Me :
 
 - 🎓 Studies for System Engineering at [Universidad Peruana de Ciencias Aplicadas]([https://www.londonmet.ac.uk/](https://www.upc.edu.pe/))
-- 🏡'Lives in **Lima,Perú**
+- 🏡'Lives in **Lima,Perú**'
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
