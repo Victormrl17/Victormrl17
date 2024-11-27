@@ -6,11 +6,8 @@
 - 🎓 Studies for System Engineering at [Universidad Peruana de Ciencias Aplicadas](https://www.upc.edu.pe/)
 - 🏡Lives in **Lima,Perú**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
-
 <br>
-
 ## Connect with me ☕ :
-
 <br>
 
 [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/victor-ramirez-8049a4193/) 
