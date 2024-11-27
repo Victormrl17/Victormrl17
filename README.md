@@ -28,10 +28,6 @@
 </table>
 <!--- stats (end) -->
 
-## Connect with me ☕ :
-
-
-[![@Victormrl17](https://img.icons8.com/fluency/48/000000/linkedin.png )](https://www.linkedin.com/in/victor-ramirez-8049a4193/) 
 
 
 
@@ -55,4 +51,8 @@
 <!-- Other Tools -->
 <img src="https://img.icons8.com/color/48/000000/npm.png"/><img src="https://img.icons8.com/color/48/000000/docker.png"/><img src="https://img.icons8.com/color/48/000000/kubernetes.png"/><img src="https://img.icons8.com/color/48/000000/github.png"/><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/><img src="https://img.icons8.com/color/48/000000/react-native.png"/><img src="https://img.icons8.com/color/48/000000/graphql.png"/>
 
-<br>
+
+## Connect with me ☕ :
+
+
+[![@Victormrl17](https://img.icons8.com/fluency/48/000000/linkedin.png )](https://www.linkedin.com/in/victor-ramirez-8049a4193/) 
