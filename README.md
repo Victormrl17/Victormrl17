@@ -57,6 +57,7 @@
 
 
 [![@Victormrl17](https://img.icons8.com/fluency/48/000000/linkedin.png )](https://www.linkedin.com/in/victor-ramirez-8049a4193) 
+[![Email](https://img.icons8.com/fluency/48/000000/email.png)](mailto:vicmanurl17@hotmail.com)
 
 
 
